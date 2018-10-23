@@ -1,4 +1,4 @@
-## A payroll system built using the PHP SDK
+## A payroll system built using the Rave PHP SDK
 
 The following illustrates a payroll system built using the Rave PHP SDK
 
